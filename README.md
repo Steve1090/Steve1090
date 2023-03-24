@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Steve1090
-- 👀 I’m interested in knowing more about AI/ML, and the coding environment. 
+- 👋 Hi, I’m @Steve1090.
+- 👀 I’m interested in knowing more coding and related concepts. 
 - 🌱 I’m pursuing engineering.
 - 💞️ I’m looking to collaborate on anything that can help people. I am raw and ready to learn!
 
